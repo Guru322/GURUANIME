@@ -11,7 +11,7 @@
 
 - Click Below To Deploy On Vercel
 
-    [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTechShreyash%2FAnimeDex&project-name=anime-dex&repo-name=anime-dex&demo-title=AnimeDex&demo-description=Watch%20Animes%20Online%20For%20Free&demo-url=https%3A%2F%2Fanimedex.live%2F&demo-image=https%3A%2F%2Fgithub.com%2FTechShreyash%2FAnimeDex%2Fraw%2Fmain%2Fstatic%2Fhome.png)
+    [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FGuru322%2FGURUANIME&project-name=anime-Guru&repo-name=GURUANIME&demo-title=AnimeGuru&demo-description=Watch%20Animes%20Online%20For%20Free)
 
    
 
