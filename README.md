@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Guru322/GURUANIME"><img src="./static/img/home.png"></a></p> 
 
-<h1 align="center"><img src="https://cdn.jsdelivr.net/gh/TechShreyash/AnimeDex@main/static/img/headerr.png"></h1>
+<h1> GURUANIME </h1>
 <h2 align="center"><b>Watch Animes Online For Free</b></h4>
 
 
